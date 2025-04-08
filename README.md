@@ -1,15 +1,16 @@
-## Assisted Living Retirement Home Resident Management API
+## Assisted Living Retirement Elderly Support Application (Back-end)
 
-This is a **CRUD REST API** built using **Django** and **Django REST Framework** to manage residents in an assisted living facility.  
-The API allows users to **create, read, update, and delete** resident records, including details like **age, health status, marital status, and more**. 
+This is a **personal project backend** built with **Django and Django REST Framework** to facilitate **support** for **elderly residents** in **assisted living facilities**. The goal is to **connect** elderly individuals with **verified companions** for **social interaction**.
+
+More updates to follow...
 
 ### Technologies Used:
 - Python
 - Django and Django Rest Framework
-- DB: SQLite
-- Insomnia (API Testing)
+- Database: PostgreSQL
+- Postman (API Testing)
 
 ### Installation & Setup
 -  Clone the repo:
 git clone https://github.com/kovymun/python-django-backend-rest-api.git
-cd python-django-backend-rest-api
+cd python-django-backend
